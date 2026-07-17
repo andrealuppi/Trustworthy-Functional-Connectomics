@@ -23,12 +23,12 @@ Each pipeline is benchmarked against the following criteria for trustworthy func
 
 To further ensure that results and recommendations are generalisable, each criterion is assessed for each pipeline in four test-retest datasets (spanning ~1h, 2-4 weeks, 1-11 and 5-16 months) including different acquisition parameters and preprocessing/denoising (aCompCor and FIX-ICA).
 
-As reported in the peper, *the majority of pipelines do not meet all criteria consistently*.
+As reported in the paper, *the majority of pipelines do not meet all criteria consistently*.
 We identified a number of pipelines that satisfy every criterion in every dataset, whose use we recommend.
 However, we also provide the _Pipeline Selection Tool_ so that users can choose pipelines based on their own combination of criteria and requirements. 
 To make this repository self-contained, a PDF _Guide to the Pipeline Selection Tool_ is also provided.
 The paper (available Open Access) provides a full description of each criterion and dataset.
 
 ## Contact Information
-For questions, please email: [al857@cam.ac.uk](al857@cam.ac.uk).
+For questions, please email: [andrea.luppi@psych.ox.ac.uk](andrea.luppi@psych.ox.ac.uk).
 
