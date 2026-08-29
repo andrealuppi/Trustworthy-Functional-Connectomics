@@ -26,6 +26,7 @@ To further ensure that results and recommendations are generalisable, each crite
 As reported in the paper, *the majority of pipelines do not meet all criteria consistently*.
 We identified a number of pipelines that satisfy every criterion in every dataset, whose use we recommend.
 However, we also provide the _Pipeline Selection Tool_ so that users can choose pipelines based on their own combination of criteria and requirements. 
+
 To make this repository self-contained, a PDF _Guide to the Pipeline Selection Tool_ is also provided.
 The paper (available Open Access) provides a full description of each criterion and dataset.
 
